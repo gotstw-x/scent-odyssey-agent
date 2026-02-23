@@ -1,0 +1,1954 @@
+[
+  {
+    "keyword_id": "k0001",
+    "keyword_text": "fresh",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.97,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0002",
+    "keyword_text": "清新",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.738,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0003",
+    "keyword_text": "citrus",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.98,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0004",
+    "keyword_text": "柑橘",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.623,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0005",
+    "keyword_text": "bright",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.944,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0006",
+    "keyword_text": "明亮",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.894,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0007",
+    "keyword_text": "sparkling",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.728,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0008",
+    "keyword_text": "气泡感",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.58,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0009",
+    "keyword_text": "zesty",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.987,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0010",
+    "keyword_text": "酸爽",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.897,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0011",
+    "keyword_text": "airy",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.802,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0012",
+    "keyword_text": "空气感",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.587,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0013",
+    "keyword_text": "clean",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.69,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0014",
+    "keyword_text": "干净",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.946,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0015",
+    "keyword_text": "crisp",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.792,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0016",
+    "keyword_text": "清爽",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.689,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0017",
+    "keyword_text": "aquatic",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.653,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0018",
+    "keyword_text": "海洋感",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.754,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0019",
+    "keyword_text": "blue",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.613,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0020",
+    "keyword_text": "蓝调",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.748,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0021",
+    "keyword_text": "woody",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.929,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0022",
+    "keyword_text": "木质",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.82,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0023",
+    "keyword_text": "cedar",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.8,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0024",
+    "keyword_text": "雪松",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.938,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0025",
+    "keyword_text": "sandalwood",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.606,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0026",
+    "keyword_text": "檀香",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.651,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0027",
+    "keyword_text": "vetiver",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.756,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0028",
+    "keyword_text": "岩兰草",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.559,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0029",
+    "keyword_text": "dry woods",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.911,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0030",
+    "keyword_text": "干木",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.658,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0031",
+    "keyword_text": "forest",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.655,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0032",
+    "keyword_text": "森林",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.767,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0033",
+    "keyword_text": "pencil shavings",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.849,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0034",
+    "keyword_text": "铅笔屑",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.889,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0035",
+    "keyword_text": "oakmoss",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.812,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0036",
+    "keyword_text": "橡木苔",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.588,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0037",
+    "keyword_text": "patchouli",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.889,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0038",
+    "keyword_text": "广藿香",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.893,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0039",
+    "keyword_text": "smoky wood",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.658,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0040",
+    "keyword_text": "烟熏木",
+    "language": "zh",
+    "category": "woody",
+    "weight": 0.815,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0041",
+    "keyword_text": "floral",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.921,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0042",
+    "keyword_text": "花香",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.616,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0043",
+    "keyword_text": "jasmine",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.696,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0044",
+    "keyword_text": "茉莉",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.853,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0045",
+    "keyword_text": "rose",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.806,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0046",
+    "keyword_text": "玫瑰",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.794,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0047",
+    "keyword_text": "peony",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.987,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0048",
+    "keyword_text": "牡丹",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.88,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0049",
+    "keyword_text": "tuberose",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.614,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0050",
+    "keyword_text": "晚香玉",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.693,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0051",
+    "keyword_text": "orange blossom",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.802,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0052",
+    "keyword_text": "橙花",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.807,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0053",
+    "keyword_text": "ylang-ylang",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.618,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0054",
+    "keyword_text": "依兰",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.89,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0055",
+    "keyword_text": "lily",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.744,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0056",
+    "keyword_text": "百合",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.75,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0057",
+    "keyword_text": "iris",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.864,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0058",
+    "keyword_text": "鸢尾",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.585,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0059",
+    "keyword_text": "violet",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.707,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0060",
+    "keyword_text": "紫罗兰",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.788,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0061",
+    "keyword_text": "musky",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.627,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0062",
+    "keyword_text": "麝香",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.624,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0063",
+    "keyword_text": "clean musk",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.678,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0064",
+    "keyword_text": "干净麝香",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.948,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0065",
+    "keyword_text": "laundry",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.985,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0066",
+    "keyword_text": "洗衣感",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.8,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0067",
+    "keyword_text": "soapy",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.811,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0068",
+    "keyword_text": "皂感",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.688,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0069",
+    "keyword_text": "aldehydic",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.977,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0070",
+    "keyword_text": "醛香",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.728,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0071",
+    "keyword_text": "skin scent",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.704,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0072",
+    "keyword_text": "贴肤",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.582,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0073",
+    "keyword_text": "cotton",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.627,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0074",
+    "keyword_text": "棉感",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.613,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0075",
+    "keyword_text": "shower-fresh",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.798,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0076",
+    "keyword_text": "沐浴后",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.802,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0077",
+    "keyword_text": "powder-clean",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.614,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0078",
+    "keyword_text": "粉皂感",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.864,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0079",
+    "keyword_text": "silky",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.768,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0080",
+    "keyword_text": "丝滑",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.672,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0081",
+    "keyword_text": "amber",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.905,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0082",
+    "keyword_text": "琥珀",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.792,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0083",
+    "keyword_text": "warm",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.741,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0084",
+    "keyword_text": "温暖",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.728,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0085",
+    "keyword_text": "resinous",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.946,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0086",
+    "keyword_text": "树脂感",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.934,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0087",
+    "keyword_text": "benzoin",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.649,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0088",
+    "keyword_text": "安息香",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.708,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0089",
+    "keyword_text": "labdanum",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.954,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0090",
+    "keyword_text": "岩蔷薇",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.739,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0091",
+    "keyword_text": "incense",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.811,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0092",
+    "keyword_text": "焚香",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.94,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0093",
+    "keyword_text": "vanilla-amber",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.792,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0094",
+    "keyword_text": "香草琥珀",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.924,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0095",
+    "keyword_text": "golden",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.999,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0096",
+    "keyword_text": "金色暖调",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.905,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0097",
+    "keyword_text": "cozy",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.769,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0098",
+    "keyword_text": "舒适",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.844,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0099",
+    "keyword_text": "balsamic",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.803,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0100",
+    "keyword_text": "香脂",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.57,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0101",
+    "keyword_text": "gourmand",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.857,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0102",
+    "keyword_text": "美食调",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.696,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0103",
+    "keyword_text": "sweet",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.821,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0104",
+    "keyword_text": "甜",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.847,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0105",
+    "keyword_text": "vanilla",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.856,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0106",
+    "keyword_text": "香草",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.651,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0107",
+    "keyword_text": "caramel",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.959,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0108",
+    "keyword_text": "焦糖",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.757,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0109",
+    "keyword_text": "praline",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.957,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0110",
+    "keyword_text": "果仁糖",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.831,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0111",
+    "keyword_text": "cocoa",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.814,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0112",
+    "keyword_text": "可可",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.87,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0113",
+    "keyword_text": "marshmallow",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.685,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0114",
+    "keyword_text": "棉花糖",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.581,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0115",
+    "keyword_text": "syrupy",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.809,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0116",
+    "keyword_text": "糖浆感",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.641,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0117",
+    "keyword_text": "dessert",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.652,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0118",
+    "keyword_text": "甜点",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.591,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0119",
+    "keyword_text": "lactonic",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.762,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0120",
+    "keyword_text": "奶感",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.624,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0121",
+    "keyword_text": "green",
+    "language": "en",
+    "category": "green",
+    "weight": 0.667,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0122",
+    "keyword_text": "绿意",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.722,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0123",
+    "keyword_text": "herbal",
+    "language": "en",
+    "category": "green",
+    "weight": 0.984,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0124",
+    "keyword_text": "草本",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.814,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0125",
+    "keyword_text": "leafy",
+    "language": "en",
+    "category": "green",
+    "weight": 0.775,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0126",
+    "keyword_text": "叶子感",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.723,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0127",
+    "keyword_text": "galbanum",
+    "language": "en",
+    "category": "green",
+    "weight": 0.841,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0128",
+    "keyword_text": "伽蓝香脂",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.755,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0129",
+    "keyword_text": "fig leaf",
+    "language": "en",
+    "category": "green",
+    "weight": 0.98,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0130",
+    "keyword_text": "无花果叶",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.669,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0131",
+    "keyword_text": "tea leaf",
+    "language": "en",
+    "category": "green",
+    "weight": 0.784,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0132",
+    "keyword_text": "茶叶",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.716,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0133",
+    "keyword_text": "bamboo",
+    "language": "en",
+    "category": "green",
+    "weight": 0.801,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0134",
+    "keyword_text": "竹子",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.924,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0135",
+    "keyword_text": "mint",
+    "language": "en",
+    "category": "green",
+    "weight": 0.607,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0136",
+    "keyword_text": "薄荷",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.94,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0137",
+    "keyword_text": "aromatic",
+    "language": "en",
+    "category": "green",
+    "weight": 0.69,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0138",
+    "keyword_text": "芳香",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.815,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0139",
+    "keyword_text": "dewy",
+    "language": "en",
+    "category": "green",
+    "weight": 0.797,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0140",
+    "keyword_text": "露水感",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.805,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0141",
+    "keyword_text": "spicy",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.683,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0142",
+    "keyword_text": "辛香",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.874,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0143",
+    "keyword_text": "peppery",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.61,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0144",
+    "keyword_text": "胡椒",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.763,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0145",
+    "keyword_text": "cardamom",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.795,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0146",
+    "keyword_text": "小豆蔻",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.876,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0147",
+    "keyword_text": "cinnamon",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.694,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0148",
+    "keyword_text": "肉桂",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.666,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0149",
+    "keyword_text": "clove",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.657,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0150",
+    "keyword_text": "丁香",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.568,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0151",
+    "keyword_text": "ginger",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.674,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0152",
+    "keyword_text": "姜",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.756,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0153",
+    "keyword_text": "saffron",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.837,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0154",
+    "keyword_text": "藏红花",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.696,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0155",
+    "keyword_text": "warm spice",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.879,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0156",
+    "keyword_text": "暖香料",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.598,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0157",
+    "keyword_text": "incense spice",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.639,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0158",
+    "keyword_text": "焚香辛香",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.786,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0159",
+    "keyword_text": "anise",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.71,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0160",
+    "keyword_text": "茴香",
+    "language": "zh",
+    "category": "spicy",
+    "weight": 0.886,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0161",
+    "keyword_text": "powdery",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.915,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0162",
+    "keyword_text": "粉感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.649,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0163",
+    "keyword_text": "makeup",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.617,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0164",
+    "keyword_text": "化妆品感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.705,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0165",
+    "keyword_text": "lipstick",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.99,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0166",
+    "keyword_text": "口红感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.818,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0167",
+    "keyword_text": "cosmetic",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.685,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0168",
+    "keyword_text": "妆感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.681,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0169",
+    "keyword_text": "iris-powder",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.898,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0170",
+    "keyword_text": "鸢尾粉",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.585,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0171",
+    "keyword_text": "soft",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.682,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0172",
+    "keyword_text": "柔软",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.647,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0173",
+    "keyword_text": "fluffy",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.855,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0174",
+    "keyword_text": "绒感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.739,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0175",
+    "keyword_text": "vintage",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.755,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0176",
+    "keyword_text": "复古",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.863,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0177",
+    "keyword_text": "baby powder",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.952,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0178",
+    "keyword_text": "婴儿粉",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.802,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0179",
+    "keyword_text": "starchy",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.727,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0180",
+    "keyword_text": "粉扑感",
+    "language": "zh",
+    "category": "powdery",
+    "weight": 0.823,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0181",
+    "keyword_text": "smoky",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.888,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0182",
+    "keyword_text": "烟熏",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.623,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0183",
+    "keyword_text": "incense",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.906,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0184",
+    "keyword_text": "焚香",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.866,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0185",
+    "keyword_text": "burnt",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.646,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0186",
+    "keyword_text": "焦灼",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.895,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0187",
+    "keyword_text": "tar",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.91,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0188",
+    "keyword_text": "焦油",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.801,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0189",
+    "keyword_text": "leather-smoke",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.65,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0190",
+    "keyword_text": "皮革烟",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.77,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0191",
+    "keyword_text": "campfire",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.862,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0192",
+    "keyword_text": "篝火",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.814,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0193",
+    "keyword_text": "ash",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.733,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0194",
+    "keyword_text": "灰烬",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.86,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0195",
+    "keyword_text": "charred",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.983,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0196",
+    "keyword_text": "炭化",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.747,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0197",
+    "keyword_text": "tobacco",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.947,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0198",
+    "keyword_text": "烟草",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.797,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0199",
+    "keyword_text": "dark",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.869,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0200",
+    "keyword_text": "暗调",
+    "language": "zh",
+    "category": "smoky",
+    "weight": 0.575,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0201",
+    "keyword_text": "tea",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.611,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0202",
+    "keyword_text": "茶感",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.712,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0203",
+    "keyword_text": "earl grey",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.621,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0204",
+    "keyword_text": "伯爵茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.888,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0205",
+    "keyword_text": "matcha",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.614,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0206",
+    "keyword_text": "抹茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.865,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0207",
+    "keyword_text": "oolong",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.806,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0208",
+    "keyword_text": "乌龙茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.591,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0209",
+    "keyword_text": "black tea",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.792,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0210",
+    "keyword_text": "红茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.939,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0211",
+    "keyword_text": "bergamot tea",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.94,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0212",
+    "keyword_text": "佛手柑茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.896,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0213",
+    "keyword_text": "mate",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.763,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0214",
+    "keyword_text": "马黛茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.861,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0215",
+    "keyword_text": "chai",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.942,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0216",
+    "keyword_text": "印度奶茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.657,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0217",
+    "keyword_text": "steamed rice",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.771,
+    "source": "reddit"
+  },
+  {
+    "keyword_id": "k0218",
+    "keyword_text": "蒸米饭",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.559,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0219",
+    "keyword_text": "osmanthus tea",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.857,
+    "source": "official"
+  },
+  {
+    "keyword_id": "k0220",
+    "keyword_text": "桂花茶",
+    "language": "zh",
+    "category": "tea",
+    "weight": 0.694,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0221",
+    "keyword_text": "office-safe",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.611,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0222",
+    "keyword_text": "通勤友好",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.757,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0223",
+    "keyword_text": "easy reach",
+    "language": "en",
+    "category": "fresh_citrus",
+    "weight": 0.655,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0224",
+    "keyword_text": "随手可喷",
+    "language": "zh",
+    "category": "fresh_citrus",
+    "weight": 0.623,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0225",
+    "keyword_text": "minimalist",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.684,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0226",
+    "keyword_text": "极简",
+    "language": "zh",
+    "category": "musky_clean",
+    "weight": 0.808,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0227",
+    "keyword_text": "your-skin-but-better",
+    "language": "en",
+    "category": "musky_clean",
+    "weight": 0.674,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0228",
+    "keyword_text": "petrichor",
+    "language": "en",
+    "category": "woody",
+    "weight": 0.647,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0229",
+    "keyword_text": "rainy",
+    "language": "en",
+    "category": "green",
+    "weight": 0.737,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0230",
+    "keyword_text": "雨后",
+    "language": "zh",
+    "category": "green",
+    "weight": 0.67,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0231",
+    "keyword_text": "cozy tea",
+    "language": "en",
+    "category": "tea",
+    "weight": 0.713,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0232",
+    "keyword_text": "date-night",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.647,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0233",
+    "keyword_text": "约会",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.628,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0234",
+    "keyword_text": "evening",
+    "language": "en",
+    "category": "ambery_warm",
+    "weight": 0.88,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0235",
+    "keyword_text": "夜晚",
+    "language": "zh",
+    "category": "ambery_warm",
+    "weight": 0.678,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0236",
+    "keyword_text": "comforting",
+    "language": "en",
+    "category": "gourmand_sweet",
+    "weight": 0.729,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0237",
+    "keyword_text": "治愈",
+    "language": "zh",
+    "category": "gourmand_sweet",
+    "weight": 0.72,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0238",
+    "keyword_text": "lipstick iris",
+    "language": "en",
+    "category": "powdery",
+    "weight": 0.672,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0239",
+    "keyword_text": "incense church",
+    "language": "en",
+    "category": "smoky",
+    "weight": 0.589,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0240",
+    "keyword_text": "saffron amber",
+    "language": "en",
+    "category": "spicy",
+    "weight": 0.774,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0241",
+    "keyword_text": "petals",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.661,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0242",
+    "keyword_text": "花瓣",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.844,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0243",
+    "keyword_text": "white florals",
+    "language": "en",
+    "category": "floral",
+    "weight": 0.772,
+    "source": "community"
+  },
+  {
+    "keyword_id": "k0244",
+    "keyword_text": "白花",
+    "language": "zh",
+    "category": "floral",
+    "weight": 0.776,
+    "source": "community"
+  }
+]

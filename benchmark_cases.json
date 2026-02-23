@@ -1,0 +1,199 @@
+[
+  {
+    "case_id": "C1_clean_office",
+    "user_free_text": "我想要很干净、像刚洗完澡的味道，不要甜，通勤用，别太冲，预算$150以内。",
+    "selected_keywords": [
+      "clean",
+      "soapy",
+      "fresh",
+      "laundry",
+      "skin scent"
+    ],
+    "ui_prefs": {
+      "budget_min": 50,
+      "budget_max": 150,
+      "concentration": [
+        "EDP"
+      ],
+      "scenarios": [
+        "office",
+        "daily"
+      ],
+      "mood_axis": 75,
+      "projection_pref": 25,
+      "accords": {
+        "fresh_citrus": 65,
+        "musky_clean": 70,
+        "woody": 25,
+        "floral": 20,
+        "ambery_warm": 15,
+        "gourmand_sweet": 5,
+        "tea": 10
+      }
+    },
+    "type": "normal"
+  },
+  {
+    "case_id": "C2_woody_amber_date",
+    "user_free_text": "冬天约会用，木质琥珀偏暖，留香要好，但不要烟熏和动物感，预算$220以内。",
+    "selected_keywords": [
+      "woody",
+      "amber",
+      "cozy",
+      "evening",
+      "date-night"
+    ],
+    "ui_prefs": {
+      "budget_min": 80,
+      "budget_max": 220,
+      "concentration": [
+        "EDP",
+        "Parfum"
+      ],
+      "scenarios": [
+        "date",
+        "winter",
+        "evening"
+      ],
+      "mood_axis": 35,
+      "projection_pref": 55,
+      "accords": {
+        "woody": 70,
+        "ambery_warm": 70,
+        "spicy": 35,
+        "fresh_citrus": 15,
+        "musky_clean": 20,
+        "gourmand_sweet": 20,
+        "smoky": 0
+      }
+    },
+    "type": "normal"
+  },
+  {
+    "case_id": "C3_sensitive_headache_edge",
+    "user_free_text": "我很容易晕香，想要非常贴肤、很平静的味道。最好像干净的棉布，不要浓烈。预算$180。",
+    "selected_keywords": [
+      "cotton",
+      "minimalist",
+      "clean musk"
+    ],
+    "ui_prefs": {
+      "budget_min": 60,
+      "budget_max": 180,
+      "concentration": [
+        "EDT",
+        "EDP"
+      ],
+      "scenarios": [
+        "daily",
+        "office",
+        "cozy"
+      ],
+      "mood_axis": 90,
+      "projection_pref": 15,
+      "accords": {
+        "musky_clean": 80,
+        "fresh_citrus": 40,
+        "woody": 20,
+        "floral": 15,
+        "ambery_warm": 10,
+        "gourmand_sweet": 0
+      }
+    },
+    "type": "edge"
+  },
+  {
+    "case_id": "C4_budget_low_edge",
+    "user_free_text": "预算很低，$40以内，想要夏天清爽、柑橘一点，日常随手喷。",
+    "selected_keywords": [
+      "fresh",
+      "citrus",
+      "easy reach"
+    ],
+    "ui_prefs": {
+      "budget_min": 15,
+      "budget_max": 40,
+      "concentration": [
+        "EDT"
+      ],
+      "scenarios": [
+        "daily",
+        "summer"
+      ],
+      "mood_axis": 70,
+      "projection_pref": 35,
+      "accords": {
+        "fresh_citrus": 80,
+        "musky_clean": 45,
+        "woody": 15,
+        "floral": 15,
+        "gourmand_sweet": 0,
+        "ambery_warm": 5
+      }
+    },
+    "type": "edge"
+  },
+  {
+    "case_id": "C5_ambiguous_rainy",
+    "user_free_text": "我想要高级、有氛围感，像雨后空气那种感觉。",
+    "selected_keywords": [
+      "rainy",
+      "airy",
+      "petrichor"
+    ],
+    "ui_prefs": {
+      "budget_min": 50,
+      "budget_max": 200,
+      "concentration": [
+        "EDP"
+      ],
+      "scenarios": [
+        "daily",
+        "autumn"
+      ],
+      "mood_axis": 60,
+      "projection_pref": 35,
+      "accords": {
+        "green": 55,
+        "fresh_citrus": 35,
+        "musky_clean": 35,
+        "woody": 30,
+        "tea": 25,
+        "ambery_warm": 15
+      }
+    },
+    "type": "ambiguous"
+  },
+  {
+    "case_id": "C6_ambiguous_tea_no_bitter_powder",
+    "user_free_text": "我想要茶感，但不要苦，也不要粉。希望温柔一点，日常和办公室都能用。",
+    "selected_keywords": [
+      "tea",
+      "oolong",
+      "clean"
+    ],
+    "ui_prefs": {
+      "budget_min": 60,
+      "budget_max": 180,
+      "concentration": [
+        "EDP"
+      ],
+      "scenarios": [
+        "office",
+        "daily"
+      ],
+      "mood_axis": 75,
+      "projection_pref": 30,
+      "accords": {
+        "tea": 75,
+        "fresh_citrus": 35,
+        "musky_clean": 45,
+        "green": 35,
+        "powdery": 0,
+        "woody": 20,
+        "gourmand_sweet": 10
+      }
+    },
+    "type": "ambiguous"
+  }
+]
